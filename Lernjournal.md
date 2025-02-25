@@ -64,12 +64,13 @@ Ablauf
 ___
 
 18.02.2025
-	- 8:10-8:50 (40) Einführung
-	- 8:50-9:10(20) XAMP Instalieren
-	- 9:10-0:00() Routenplaner auftrag
-	- 9:10-9:30(20) Konzept
-	- 9:30-10:50(80) ERM und ERD
-	- 10:50-11:30(40)Daten Extrahiert normalisiert
-	
-	
+
+- 8:10-8:50 (40) Einführung
+- 8:50-9:10(20) XAMP Instalieren
+- 9:10-0:00() Routenplaner auftrag
+- 9:10-9:30(20) Konzept
+- 9:30-10:50(80) ERM und ERD
+- 10:50-11:30(40)Daten Extrahiert normalisiert
+
+
 
