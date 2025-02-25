@@ -78,9 +78,8 @@ ___
 - 8:10-8:40 (30) Einführung
 - 8:40-9:30(50) Notizen erstellen
 - 9:30-10:50(80) Schema übertragen
-- 9:10-9:30(20) Daten einfügen
-- 9:30-10:50(80) ERM und ERD
-- 10:50-11:30(40)Daten Extrahiert normalisiert
+- 10:50-11:30(40) Auf PHPAdmin ausprobiert
+  
 
 
 
