@@ -80,7 +80,10 @@ ___
 - 9:30-10:50(80) Schema übertragen
 - 10:50-11:30(40) Auf PHPAdmin ausprobiert
   
+___
+18.03.2025
 
+-WGHOL angeschaut
 
 
 
