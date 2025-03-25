@@ -84,6 +84,13 @@ ___
 18.03.2025
 
 -WGHOL angeschaut
+___
+25.03.2025
+
+CMD eingerichtet so dass ich von überall zugrif habe und auch mit datenbank befehlen experimentiert.
+Mit dumps und CRUD gearbeitet.
+Gitlab durchlesen.
+
 
 
 
