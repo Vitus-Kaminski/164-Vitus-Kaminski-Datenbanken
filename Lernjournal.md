@@ -84,6 +84,7 @@ ___
 18.03.2025
 
 -WGHOL angeschaut
+-Agregatsfunktionen durchlesen
 ___
 25.03.2025
 
@@ -91,6 +92,11 @@ CMD eingerichtet so dass ich von überall zugrif habe und auch mit datenbank bef
 Mit dumps und CRUD gearbeitet.
 Gitlab durchlesen.
 
+___
+1.04.2025
 
+über Backup, Dumps informiert.
+Daten normalisiert einbinden.
+Notizen erstellen und zusammenfassen.
 
 
