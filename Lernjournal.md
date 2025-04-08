@@ -99,4 +99,10 @@ ___
 Daten normalisiert einbinden.
 Notizen erstellen und zusammenfassen.
 
+___
+08.04.2025
+
+In den Lektionen gieng es um Csv dateien zu importieren und mich nochmals mit den normalisierungsformen auseinandergestezt.
+Ich habe mich ausserdem auf die kommende prüfung vorbereitet und nochmals alles repetiert.
+
 
