@@ -131,3 +131,45 @@
 ### LB2 Zusammenfassung (Tag 1-9)
 - **Theorie (30 Min)**: Alle Konzepte aus LB1 plus Mengenlehre, Konsistenz und referentielle Integrität, Beziehungs-Constraints, Aggregatsfunktionen
 - **Praxis (70 Min)**: Daten in 3-NF-Datenbasis einbinden, auslesen und sichern
+
+---
+
+## Aufgaben
+
+Die folgenden Aufgaben und Dokumentationen sind Teil meines Lernprozesses im Modul M164:
+
+### [Backup normalisiert](Aufgaben/Backup_normalisiert.md)
+- Dokumentation zum Thema Backup und normalisierte Datenstrukturen
+- Behandelt die Erstellung von Backups in MySQL/MariaDB
+- Verfahren zum Wiederherstellen normalisierter Datenbanken
+
+### [Theorie](Aufgaben/Theorie.md)
+- Theoretische Grundlagen der relationalen Datenbanken
+- Konzepte der Datenmodellierung
+- Definitionen wichtiger Fachbegriffe
+
+### [Tourenplaner Daten](Aufgaben/Tourenplaner_daten.pdf)
+- Ausgangsdaten für das Projekt "Tourenplaner"
+- Verwendete Daten zur Erstellung des ERD und der Datenbank
+- Basis für die Normalisierungsübungen
+
+### [WGHOL](Aufgaben/WGHOL.md)
+- Detaillierte Erklärung zum WGHOL-Konzept
+- Beispiele zur korrekten Anwendung der SQL-Abfragereihenfolge
+- Übungsaufgaben zur Festigung des Wissens
+
+### [Zusammenfassung](Aufgaben/Zusammenfassung.md)
+- Kompakte Zusammenfassung aller wichtigen Modulinhalte
+- Schnellreferenz für Prüfungsvorbereitungen
+- Checkliste der zu beherrschenden Konzepte
+
+---
+
+## Bilder
+
+Zur Dokumentation meiner praktischen Arbeit habe ich folgende Screenshots erstellt:
+
+- **php1.png**: Erste Schritte mit PHP und MySQL
+- **phpAdmin.png**: Konfiguration und Bedienung von phpMyAdmin
+- **phpadmin3.png**: Fortgeschrittene Funktionen in phpMyAdmin
+- **temp**: Temporäre Dateien und Notizen
