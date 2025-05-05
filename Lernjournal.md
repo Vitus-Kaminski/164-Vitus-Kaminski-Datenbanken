@@ -171,5 +171,4 @@ Zur Dokumentation meiner praktischen Arbeit habe ich folgende Screenshots erstel
 
 - **php1.png**: Erste Schritte mit PHP und MySQL
 - **phpAdmin.png**: Konfiguration und Bedienung von phpMyAdmin
-- **phpadmin3.png**: Fortgeschrittene Funktionen in phpMyAdmin
-- **temp**: Temporäre Dateien und Notizen
+
