@@ -108,7 +108,7 @@
 - SUM(): Summiert numerische Werte
 - AVG(): Berechnet den Durchschnitt
 - MIN(): Findet den kleinsten Wert
-- MAX(): Findet den größten Wert
+- MAX(): Findet den grössten Wert
 
 ### Beziehungstypen
 - **Identifizierende Beziehung**: Der Primärschlüssel einer übergeordneten Entität wird Teil des Primärschlüssels der untergeordneten Entität
